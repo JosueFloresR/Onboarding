@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MiniGame.unity
-    guid: 938d1a1b6e62ea1419d556639545e958
+    path: Assets/Scenes/HW01.unity
+    guid: a33242a07cb89b44fbaaa938dc134a39
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 10ce0c129808a2340a190af9330a957b,
       type: 2}
